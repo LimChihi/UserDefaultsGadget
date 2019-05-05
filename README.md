@@ -22,7 +22,7 @@ pod 'UserDefaultsGadget'
 
 ## Author
 
-limchihi, linzhiyi@bytedance.com
+limchihi, limchihi@foxmail.com
 
 ## License
 
