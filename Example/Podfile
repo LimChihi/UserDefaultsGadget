@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'UserDefaultsGadget_Example' do
+  pod 'UserDefaultsGadget', :path => '../'
+
+  target 'UserDefaultsGadget_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
