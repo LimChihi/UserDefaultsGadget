@@ -1,0 +1,16 @@
+PODS:
+  - UserDefaultsGadget (0.1.0)
+
+DEPENDENCIES:
+  - UserDefaultsGadget (from `../`)
+
+EXTERNAL SOURCES:
+  UserDefaultsGadget:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  UserDefaultsGadget: b0d01c083f12c44e472b47302b7f719cb59f4561
+
+PODFILE CHECKSUM: 1037584fabd91533dbd98ffffd88b00526884949
+
+COCOAPODS: 1.6.1
